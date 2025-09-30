@@ -1,6 +1,8 @@
 """
 scan_security_txt.py
 
+@author: [waps11](https://github.com/waps11) & [PathetiQ](https://github.com/PathetiQ)
+
 Usage:
     python scan_security_txt.py urls.txt --output results.csv --save-files found_txt --concurrency 30
 
